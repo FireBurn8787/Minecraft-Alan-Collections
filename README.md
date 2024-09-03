@@ -1,1 +1,1 @@
-# Minecraft-Alan-Collections
+# 抄襲事件收集簿
