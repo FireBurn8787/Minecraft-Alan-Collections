@@ -4,7 +4,7 @@
 # 09-03-2024 (Tue.)
 
 
-## 在 Threads 上被 gii87888 發布貼文
+## 1. 在 Threads 上被 gii87888 發布貼文
 
 貼文連結: https://www.threads.net/@gii87888/post/C_aLqv6S0uQ
 ![gii87888於20240903在Thread發布貼文](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Thread_gii87888.png)
@@ -25,7 +25,9 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 影片網備份站: https://web.archive.org/web/20240903163604/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8zRM-QMQkj8
 
 
-## Alanmmvmc 在社群發布貼文
+## 2. Alanmmvmc 在社群發布貼文 (晚上9)
+
+貼文連結: https://www.youtube.com/post/Ugkxvu_y-r2ujgr9O4wje1pvG8_vKRdj9dfg
 
 ```
 大家好，我是阿冷。今天我想和大家坦誠地談一件重要的事情。過去在蓋建築時，我經常參考其他建築師的構圖，但在一次製作水屋頂建築時，我借鑑得太多，導致許多人指出我的建築與原作過於相似。經過反思，我也認識到這次的建築在比例和風格上確實偏向了抄襲。對於這個錯誤，我想向大家真誠道歉。
@@ -46,7 +48,7 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 # 09-02-2024 (Mon.)
 
 
-## 在 麥塊匿名發文平台 上被 匿名 發布貼文
+## 1. 在 麥塊匿名發文平台 上被 匿名 發布貼文
 
 貼文連結: https://cbmc.club/posts/3404
 
