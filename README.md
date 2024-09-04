@@ -23,7 +23,6 @@ Youtube 影片網址: https://www.youtube.com/watch?v=Z-H85bVD4Dc
 
 ### 2. 紫川金雨Kinu(@MurasakigawaKinu) 在Youtube頻道發了影片 (05:00)
 
-
 #### 伊甸惡意成員抄襲事件【懶人包】(04:20)
 
 Youtube 影片網址: https://www.youtube.com/watch?v=r9CFWJraLe4
@@ -31,6 +30,14 @@ Youtube 影片網址: https://www.youtube.com/watch?v=r9CFWJraLe4
     <img src="https://raw.githubusercontent.com/FireBurn8787/Plagiarism-Record-Book/main/imgs/09-04-2024_Youtube_MurasakigawaKinu_r9CFWJraLe4_Thumbnail.jpg"/>
 </a>
 
+### 3. xp0405xp 於巴哈場外版發布文章
+
+#### 【閒聊】丟臉丟到國外 ! 百萬實況主舞秋風保駕護航 ! 伊甸惡意抄襲慣犯繼續逍遙 !
+
+文章連結: https://forum.gamer.com.tw/C.php?bsn=60076&snA=8393828&tnum=1
+<a href="https://forum.gamer.com.tw/C.php?bsn=60076&snA=8393828&tnum=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/FireBurn8787/Plagiarism-Record-Book/main/imgs/09-04-2024_Gamer_60076_8393828.png"/>
+</a>
 
 ## 09-03-2024 (Tue.)
 
