@@ -1,6 +1,29 @@
 # 抄襲事件收集簿
 
 
+# 09-04-2024 (Wed.)
+
+
+## 1. 血滴(@Inubushi777) 在Youtube頻道發了影片 (05:00)
+
+### 關於A冷的抄襲我有話想説
+
+Youtube 影片網址: https://www.youtube.com/watch?v=Z-H85bVD4Dc
+<a href="https://www.youtube.com/watch?v=Z-H85bVD4Dc">
+    <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-04-2024_Youtube_Inubushi777_Z-H85bVD4Dc_Thumbnail.jpg"/>
+</a>
+
+## 2. 紫川金雨Kinu(@MurasakigawaKinu) 在Youtube頻道發了影片 (05:00)
+
+
+### 伊甸惡意成員抄襲事件【懶人包】(04:20)
+
+Youtube 影片網址: https://www.youtube.com/watch?v=r9CFWJraLe4
+<a href="https://www.youtube.com/watch?v=r9CFWJraLe4">
+    <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-04-2024_Youtube_MurasakigawaKinu_r9CFWJraLe4_Thumbnail.jpg"/>
+</a>
+
+
 # 09-03-2024 (Tue.)
 
 
