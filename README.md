@@ -9,7 +9,7 @@
 ### 關於A冷的抄襲我有話想説
 
 Youtube 影片網址: https://www.youtube.com/watch?v=Z-H85bVD4Dc
-<a href="https://www.youtube.com/watch?v=Z-H85bVD4Dc">
+<a href="https://www.youtube.com/watch?v=Z-H85bVD4Dc" target="_blank">
     <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-04-2024_Youtube_Inubushi777_Z-H85bVD4Dc_Thumbnail.jpg"/>
 </a>
 
@@ -19,7 +19,7 @@ Youtube 影片網址: https://www.youtube.com/watch?v=Z-H85bVD4Dc
 ### 伊甸惡意成員抄襲事件【懶人包】(04:20)
 
 Youtube 影片網址: https://www.youtube.com/watch?v=r9CFWJraLe4
-<a href="https://www.youtube.com/watch?v=r9CFWJraLe4">
+<a href="https://www.youtube.com/watch?v=r9CFWJraLe4" target="_blank">
     <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-04-2024_Youtube_MurasakigawaKinu_r9CFWJraLe4_Thumbnail.jpg"/>
 </a>
 
@@ -30,7 +30,10 @@ Youtube 影片網址: https://www.youtube.com/watch?v=r9CFWJraLe4
 ## 1. 在 Threads 上被 gii87888 發布貼文
 
 貼文連結: https://www.threads.net/@gii87888/post/C_aLqv6S0uQ
+
 ![gii87888於20240903在Thread發布貼文](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Thread_gii87888_C_aLqv6S0uQ.png)
+
+網站備份: https://web.archive.org/web/20240904085433/http://web.archive.org/screenshot/https://www.threads.net/@gii87888/post/C_aLqv6S0uQ
 
 ### 被指控抄襲的建築
 
@@ -38,10 +41,12 @@ Youtube 影片網址: https://www.youtube.com/watch?v=r9CFWJraLe4
 
 ![被抄襲的建築釘圖](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Pinterest_Jottape033_411235009741808410.png)
 
+網站備份: https://web.archive.org/web/20240904085442/https://www.pinterest.com/pin/411235009741808410/
+
 ### 阿冷Alan影片網址
 
 Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
-<a href="https://www.youtube.com/watch?v=8zRM-QMQkj8">
+<a href="https://www.youtube.com/watch?v=8zRM-QMQkj8" target="_blank">
     <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/08-31-2024_Youtube_Alanmmvmc_8zRM-QMQkj8_Thumbnail.jpg"/>
 </a>
 
@@ -49,6 +54,13 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 
 ### gii87888 留言補充
 
+```
+補幾張昨天後來的截圖，第一張是他的資訊欄，沒有提到任何借鑑相關的資訊，或是有貼作者的連結，後面兩張是鐵證，那個屋頂的形狀根本一模一樣，牆面的凹凸層次也都一樣的材質，但你卻在影片中說是你自己"設計"的?
+```
+
+![gii87888 留言補充截圖](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Thread_gii87888_C_bxkuYzxzA.png)
+
+![gii87888 留言補充附圖 1](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Thread_gii87888_C_bxkuYzxzA_A1.png)
 
 
 
@@ -70,6 +82,8 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 ![Alanmmvmc 發佈在社群的貼文](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Youtube_Alanmmvmc_community_Ugkxvu_y-r2ujgr9O4wje1pvG8_vKRdj9dfg_9PM_v1.png)
 
 *版本 20240903_2100
+
+網備份站: https://web.archive.org/web/20240904084443/http://web.archive.org/screenshot/https://www.youtube.com/post/Ugkxvu_y-r2ujgr9O4wje1pvG8_vKRdj9dfg
 
 
 # 09-02-2024 (Mon.)
@@ -101,3 +115,5 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 ```
 
 ![匿名於20240902在CBMC發布貼文](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-02-2024_CBMC_3404.png)
+
+網備份站: https://web.archive.org/web/20240904084308/https://cbmc.club/posts/3404
