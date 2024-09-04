@@ -7,13 +7,13 @@
 ## 1. 在 Threads 上被 gii87888 發布貼文
 
 貼文連結: https://www.threads.net/@gii87888/post/C_aLqv6S0uQ
-![gii87888於20240903在Thread發布貼文](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Thread_gii87888.png)
+![gii87888於20240903在Thread發布貼文](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Thread_gii87888_C_aLqv6S0uQ.png)
 
 ### 被指控抄襲的建築
 
 被抄襲的建築網址: https://www.pinterest.com/pin/411235009741808410/
 
-![被抄襲的建築釘圖](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Pinterest_Jottape033.png)
+![被抄襲的建築釘圖](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Pinterest_Jottape033_411235009741808410.png)
 
 ### 阿冷Alan影片網址
 
@@ -23,6 +23,10 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 </a>
 
 影片網備份站: https://web.archive.org/web/20240903163604/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8zRM-QMQkj8
+
+### gii87888 留言補充
+
+
 
 
 ## 2. Alanmmvmc 在社群發布貼文 (約21:00)
@@ -40,7 +44,7 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 阿冷水屋頂那集的建築:https://youtu.be/8zRM-QMQkj8?si=UDDh3...
 ```
 
-![Alanmmvmc 發佈在社群的貼文](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Youtube_Alanmmvmc_community_9PM_v1.png)
+![Alanmmvmc 發佈在社群的貼文](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Youtube_Alanmmvmc_community_Ugkxvu_y-r2ujgr9O4wje1pvG8_vKRdj9dfg_9PM_v1.png)
 
 *版本 20240903_2100
 
