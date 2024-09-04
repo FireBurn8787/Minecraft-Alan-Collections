@@ -25,7 +25,7 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 影片網備份站: https://web.archive.org/web/20240903163604/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8zRM-QMQkj8
 
 
-## 2. Alanmmvmc 在社群發布貼文 (晚上9)
+## 2. Alanmmvmc 在社群發布貼文 (約21:00)
 
 貼文連結: https://www.youtube.com/post/Ugkxvu_y-r2ujgr9O4wje1pvG8_vKRdj9dfg
 
@@ -48,7 +48,7 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 # 09-02-2024 (Mon.)
 
 
-## 1. 在 麥塊匿名發文平台 上被 匿名 發布貼文
+## 1. 在 麥塊匿名發文平台 上被 匿名 發布貼文 (20:29)
 
 貼文連結: https://cbmc.club/posts/3404
 
