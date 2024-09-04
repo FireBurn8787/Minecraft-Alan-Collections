@@ -112,7 +112,7 @@
         <img src="https://raw.githubusercontent.com/FireBurn8787/Plagiarism-Record-Book/main/imgs/history/Alanmmvmc_edQH4WY9ZOI_Thumbnail.png" width="49%"/>
     </a>
     <a href="https://www.youtube.com/watch?v=AKdPyhj-Z5I" target="_blank">
-        <img src="https://raw.githubusercontent.com/FireBurn8787/Plagiarism-Record-Book/main/imgs/history/Alanmmvmc_AKdPyhj-Z5I_Thumbnail.png" width="49%"/>
+        <img src="https://raw.githubusercontent.com/FireBurn8787/Plagiarism-Record-Book/main/imgs/history/okazucraft_AKdPyhj-Z5I_Thumbnail.png" width="49%"/>
     </a>
 </p>
 
