@@ -38,7 +38,7 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 阿冷水屋頂那集的建築:https://youtu.be/8zRM-QMQkj8?si=UDDh3...
 ```
 
-![Alanmmvmc 發佈在社群的貼文](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Youtube_Alanmmvmc_community_9PM_v1)
+![Alanmmvmc 發佈在社群的貼文](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-03-2024_Youtube_Alanmmvmc_community_9PM_v1.png)
 
 *版本 20240903_2100
 
