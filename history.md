@@ -29,10 +29,10 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=OojUrX-uCcM" target="_blank">
-        <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/Alanmmvmc_OojUrX-uCcM_Thumbnail.png" width="40%"/>
+        <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/history/Alanmmvmc_OojUrX-uCcM_Thumbnail.png" width="40%"/>
     </a>
     <a href="https://www.youtube.com/watch?v=Gf2XbgncHjY" target="_blank">
-        <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/RanaRosso_Gf2XbgncHjY_Thumbnail.png" width="40%"/>
+        <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/history/RanaRosso_Gf2XbgncHjY_Thumbnail.png" width="40%"/>
     </a>
 </p>
 
@@ -49,10 +49,10 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=eIlzR-Obt08" target="_blank">
-        <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/Alanmmvmc_eIlzR-Obt08_Thumbnail.png" width="40%"/>
+        <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/history/Alanmmvmc_eIlzR-Obt08_Thumbnail.png" width="40%"/>
     </a>
     <a href="https://www.youtube.com/watch?v=Iqqj3zdZYXA" target="_blank">
-        <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/RanaRosso_Iqqj3zdZYXA_Thumbnail.png" width="40%"/>
+        <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/history/RanaRosso_Iqqj3zdZYXA_Thumbnail.png" width="40%"/>
     </a>
 </p>
 
