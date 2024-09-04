@@ -39,6 +39,16 @@ Youtube 影片網址: https://www.youtube.com/watch?v=r9CFWJraLe4
     <img src="https://raw.githubusercontent.com/FireBurn8787/Plagiarism-Record-Book/main/imgs/09-04-2024_Gamer_60076_8393828.png"/>
 </a>
 
+### 4. smallsky 開直播說明
+
+#### 🔴阿冷Alan抄襲事件，我公布了所有的證據！ | 小空 Ft.@LanYuRain @corn_can
+
+直播連結: https://www.youtube.com/watch?v=mb0oGXz1j2U
+<a href="https://www.youtube.com/watch?v=mb0oGXz1j2U" target="_blank">
+    <img src="https://i.ytimg.com/vi/mb0oGXz1j2U/maxresdefault.jpg"/>
+</a>
+
+
 ## 09-03-2024 (Tue.)
 
 
