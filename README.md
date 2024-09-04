@@ -1,22 +1,30 @@
 # 抄襲事件收集簿
 
 
-# 09-04-2024 (Wed.)
+## 歷史紀錄
+
+可以在這網頁看到所有紀錄: 
+https://fireburn8787.github.io/Plagiarism-Record-Book/history
 
 
-## 1. 血滴(@Inubushi777) 在Youtube頻道發了影片 (05:00)
+# 事件紀錄
 
-### 關於A冷的抄襲我有話想説
+## 09-04-2024 (Wed.)
+
+
+### 1. 血滴(@Inubushi777) 在Youtube頻道發了影片 (05:00)
+
+#### 關於A冷的抄襲我有話想説
 
 Youtube 影片網址: https://www.youtube.com/watch?v=Z-H85bVD4Dc
 <a href="https://www.youtube.com/watch?v=Z-H85bVD4Dc" target="_blank">
     <img src="https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/09-04-2024_Youtube_Inubushi777_Z-H85bVD4Dc_Thumbnail.jpg"/>
 </a>
 
-## 2. 紫川金雨Kinu(@MurasakigawaKinu) 在Youtube頻道發了影片 (05:00)
+### 2. 紫川金雨Kinu(@MurasakigawaKinu) 在Youtube頻道發了影片 (05:00)
 
 
-### 伊甸惡意成員抄襲事件【懶人包】(04:20)
+#### 伊甸惡意成員抄襲事件【懶人包】(04:20)
 
 Youtube 影片網址: https://www.youtube.com/watch?v=r9CFWJraLe4
 <a href="https://www.youtube.com/watch?v=r9CFWJraLe4" target="_blank">
@@ -24,10 +32,10 @@ Youtube 影片網址: https://www.youtube.com/watch?v=r9CFWJraLe4
 </a>
 
 
-# 09-03-2024 (Tue.)
+## 09-03-2024 (Tue.)
 
 
-## 1. 在 Threads 上被 gii87888 發布貼文
+### 1. 在 Threads 上被 gii87888 發布貼文
 
 貼文連結: https://www.threads.net/@gii87888/post/C_aLqv6S0uQ
 
@@ -35,7 +43,7 @@ Youtube 影片網址: https://www.youtube.com/watch?v=r9CFWJraLe4
 
 網站備份: https://web.archive.org/web/20240904085433/http://web.archive.org/screenshot/https://www.threads.net/@gii87888/post/C_aLqv6S0uQ
 
-### 被指控抄襲的建築
+#### 被指控抄襲的建築
 
 被抄襲的建築網址: https://www.pinterest.com/pin/411235009741808410/
 
@@ -43,7 +51,7 @@ Youtube 影片網址: https://www.youtube.com/watch?v=r9CFWJraLe4
 
 網站備份: https://web.archive.org/web/20240904085442/https://www.pinterest.com/pin/411235009741808410/
 
-### 阿冷Alan影片網址
+#### 阿冷Alan影片網址
 
 Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 <a href="https://www.youtube.com/watch?v=8zRM-QMQkj8" target="_blank">
@@ -52,7 +60,7 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 
 影片網備份站: https://web.archive.org/web/20240903163604/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8zRM-QMQkj8
 
-### gii87888 留言補充
+#### gii87888 留言補充
 
 ```
 補幾張昨天後來的截圖，第一張是他的資訊欄，沒有提到任何借鑑相關的資訊，或是有貼作者的連結，後面兩張是鐵證，那個屋頂的形狀根本一模一樣，牆面的凹凸層次也都一樣的材質，但你卻在影片中說是你自己"設計"的?
@@ -64,7 +72,7 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 
 
 
-## 2. Alanmmvmc 在社群發布貼文 (約21:00)
+### 2. Alanmmvmc 在社群發布貼文 (約21:00)
 
 貼文連結: https://www.youtube.com/post/Ugkxvu_y-r2ujgr9O4wje1pvG8_vKRdj9dfg
 
@@ -86,10 +94,10 @@ Youtube 影片網址: https://www.youtube.com/watch?v=8zRM-QMQkj8
 網備份站: https://web.archive.org/web/20240904084443/http://web.archive.org/screenshot/https://www.youtube.com/post/Ugkxvu_y-r2ujgr9O4wje1pvG8_vKRdj9dfg
 
 
-# 09-02-2024 (Mon.)
+## 09-02-2024 (Mon.)
 
 
-## 1. 在 麥塊匿名發文平台 上被 匿名 發布貼文 (20:29)
+### 1. 在 麥塊匿名發文平台 上被 匿名 發布貼文 (20:29)
 
 貼文連結: https://cbmc.club/posts/3404
 

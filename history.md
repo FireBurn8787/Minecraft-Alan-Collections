@@ -15,7 +15,6 @@
     </a>
 </p>
 
-資訊欄無原作者資訊。
+**資訊欄無原作者資訊。**
 
 ![影片說明欄](https://raw.githubusercontent.com/FireBurn8787/Minecraft-Alan-Collections/main/imgs/history/Alanmmvmc_8zRM-QMQkj8_description.png)
-
