@@ -1,5 +1,6 @@
 # 過往"借鑒"紀錄
 
+資訊來源: https://docs.google.com/document/d/11mhwD3t7mtSSmiB5qA1O4_ckq2hdB_sC8CaLEvgdMo8/edit?usp=sharing
 
 ## Minecraft【伊甸惡意】水也可以當屋頂 ❗ 開光影後美呆了 ❗ ｜1.21生存 #25｜全字幕｜ [2024-08-31]
 
